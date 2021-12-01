@@ -1,0 +1,11 @@
+.item{
+    margin:0px 15px;
+    text-align: center;
+
+}
+.card img{
+    width:200px;
+    height: 200px;
+    margin-bottom: 15px;
+    transition: 0.35 erase-in-out;
+}
